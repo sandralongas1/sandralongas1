@@ -1,16 +1,28 @@
-## Hi there 👋
+<img width="1984" height="641" alt="359b1bff-42b2-401d-a341-8b28092c6637" src="https://github.com/user-attachments/assets/48c026ec-7091-449e-9582-a43ea69bbc7e" />
 
-<!--
-**sandralongas1/sandralongas1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola, soy Sandra 👋
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Software Developer y QA Engineer, calidad de software, automatización y experiencia de usuario.
+
+Actualmente formo parte de Plexus Tech, donde he evolucionado desde QA Tester hasta Software Developer, combinando una visión técnica con una fuerte orientación al usuario final.
+
+## Formación
+
+- Técnico en Sistemas Microinformáticos y Redes.
+
+- Técnico Superior en Desarrollo de Aplicaciones Web (DAW).
+  - Core Networks (Sevilla).
+  - Finalizado en junio de 2025.
+
+- Certificado Profesional de Diseño de Experiencia de Usuario (UX).
+  - Google Career Certificates.
+  - Finalizado en noviembre de 2023.
+
+## Contacto
+
+💼 LinkedIn: https://www.linkedin.com/in/sandralongas
+## Contacto
+
+💼 LinkedIn: www.linkedin.com/in/sandralongas
