@@ -31,7 +31,7 @@ Actualmente formo parte de Plexus Tech, donde he evolucionado desde QA Tester ha
 
 ## IDEs
 
-<img src="https://skillicons.dev/icons?i=idea,vscode,eclipse,netbeans" />
+<img src="https://skillicons.dev/icons?i=idea,vscode,eclipse" />
 
 ## Diseño UX/UI
 
