@@ -1,4 +1,4 @@
-<img width="1984" height="641" alt="359b1bff-42b2-401d-a341-8b28092c6637" src="https://github.com/user-attachments/assets/48c026ec-7091-449e-9582-a43ea69bbc7e" />
+<img width="1984" height="635" alt="359b1bff-42b2-401d-a341-8b28092c6637" src="https://github.com/user-attachments/assets/cd3e3c9c-f719-455a-8651-e61fb8f658a8" />
 
 # Hola, soy Sandra 👋
 
@@ -10,7 +10,7 @@ Actualmente formo parte de Plexus Tech, donde he evolucionado desde QA Tester ha
 
 ## Formación
 
-- Técnico en Sistemas Microinformáticos y Redes.
+
 
 - Técnico Superior en Desarrollo de Aplicaciones Web (DAW).
   - Core Networks (Sevilla).
@@ -20,9 +20,13 @@ Actualmente formo parte de Plexus Tech, donde he evolucionado desde QA Tester ha
   - Google Career Certificates.
   - Finalizado en noviembre de 2023.
 
+  - Técnico en Sistemas Microinformáticos y Redes.
+  - Finalizado en junio de 2018.
+
+## Competencias
+
+[ttps://skillicons.dev/icons?i=java,kotlin,js,html,css,git,github,gitlab,docker,vscode,idea,eclipse,mysql,mongodb,figma,linux](https://skillicons.dev)
+
 ## Contacto
 
 💼 LinkedIn: https://www.linkedin.com/in/sandralongas
-## Contacto
-
-💼 LinkedIn: www.linkedin.com/in/sandralongas
