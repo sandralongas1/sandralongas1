@@ -23,9 +23,21 @@ Actualmente formo parte de Plexus Tech, donde he evolucionado desde QA Tester ha
   - Técnico en Sistemas Microinformáticos y Redes.
   - Finalizado en junio de 2018.
 
-## Competencias
+## Desarrollo
 
-[ttps://skillicons.dev/icons?i=java,kotlin,js,html,css,git,github,gitlab,docker,vscode,idea,eclipse,mysql,mongodb,figma,linux](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javal,css](https://skillicons.dev)
+
+## Herramientas
+
+[![My Skills](https://skillicons.dev/icons?i=git,github](https://skillicons.dev)
+
+## IDEs
+
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode,eclipse)icons.dev)
+
+## Diseño UX/UI
+
+[![My Skillslicons.dev/icons?i=figma](https://skillicons.dev)
 
 ## Contacto
 
