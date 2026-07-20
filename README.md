@@ -10,8 +10,6 @@ Actualmente formo parte de Plexus Tech, donde he evolucionado desde QA Tester ha
 
 ## Formación
 
-
-
 - Técnico Superior en Desarrollo de Aplicaciones Web (DAW).
   - Core Networks (Sevilla).
   - Finalizado en junio de 2025.
@@ -22,9 +20,21 @@ Actualmente formo parte de Plexus Tech, donde he evolucionado desde QA Tester ha
 
   - Técnico en Sistemas Microinformáticos y Redes.
   - Finalizado en junio de 2018.
-## Competencias
+## Desarrollo
 
-https://skillicons.dev/icons?i=java,kotlin,js,html,css,git,github,gitlab,docker,postman,mysql,mongodb,idea,vscode,eclipse,figma
+https://skillicons.dev/icons?i=java,kotlin,js,html,css](https://skillicons.dev)
+
+## Herramientas
+
+https://skillicons.dev/icons?i=git,github,gitlab,docker](https://skillicons.dev)
+
+## IDEs
+
+https://skillicons.dev/icons?i=idea,vscode,eclipse](https://skillicons.dev)
+
+## Diseño UX/UI
+
+https://skillicons.dev/icons?i=figma](https://skillicons.dev)
 
 ## Contacto
 
