@@ -11,15 +11,9 @@ Actualmente formo parte de Plexus Tech, donde he evolucionado desde QA Tester ha
 ## Formación
 
 - Técnico Superior en Desarrollo de Aplicaciones Web (DAW).
-  - Core Networks (Sevilla).
-  - Finalizado en junio de 2025.
-
 - Certificado Profesional de Diseño de Experiencia de Usuario (UX).
   - Google Career Certificates.
-  - Finalizado en noviembre de 2023.
-
 - Técnico en Sistemas Microinformáticos y Redes.
-  - Finalizado en junio de 2018.
   
 ## Desarrollo
 
