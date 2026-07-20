@@ -27,7 +27,7 @@ Actualmente formo parte de Plexus Tech, donde he evolucionado desde QA Tester ha
 
 ## Herramientas
 
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,postman,jira,azure" />
 
 ## IDEs
 
