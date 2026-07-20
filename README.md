@@ -18,26 +18,32 @@ Actualmente formo parte de Plexus Tech, donde he evolucionado desde QA Tester ha
   - Google Career Certificates.
   - Finalizado en noviembre de 2023.
 
-  - Técnico en Sistemas Microinformáticos y Redes.
+- Técnico en Sistemas Microinformáticos y Redes.
   - Finalizado en junio de 2018.
+  
 ## Desarrollo
 
-https://skillicons.dev/icons?i=java,kotlin,js,html,css](https://skillicons.dev)
+https:***killicons.dev/icons?i=java,kotlin,js,html,css
 
 ## Herramientas
 
-https://skillicons.dev/icons?i=git,github,gitlab,docker](https://skillicons.dev)
+htt***//skillicons.dev/icons?i=git,github,gitlab,docker,postman
 
 ## IDEs
-
-https://skillicons.dev/icons?i=idea,vscode,eclipse](https://skillicons.dev)
+***illicons.dev/icons?i=idea,vscode***lipse" />
 
 ## Diseño UX/UI
 
-https://skillicons.dev/icons?i=figma](https://skillicons.dev)
+.dev***ons?i=figma" />
 
 ## Contacto
 
-https://www.linkedin.com/in/sandralongas/
+## Contacto
 
-sandralongas1@gmail.com
+<a href="https://www.linkedin.com/in/sandralongas/">
+  https://skillicons.dev/icons?i=linkedin
+</a>
+
+">
+  https://skillicons.dev/icons?i=gmail
+</a>
