@@ -1,4 +1,4 @@
-<img width="1984" height="550" alt="359b1bff-42b2-401d-a341-8b28092c6637" src="https://github.com/user-attachments/assets/cd3e3c9c-f719-455a-8651-e61fb8f658a8" />
+<img width="1984" height="638" alt="359b1bff-42b2-401d-a341-8b28092c6637" src="https://github.com/user-attachments/assets/cd3e3c9c-f719-455a-8651-e61fb8f658a8" />
 
 # Hola, soy Sandra 👋
 
