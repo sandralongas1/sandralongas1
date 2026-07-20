@@ -24,10 +24,10 @@ Actualmente formo parte de Plexus Tech, donde he evolucionado desde QA Tester ha
   - Finalizado en junio de 2018.
 ## Competencias
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,js,it,github,gitlab,docker,postman,mysql,mongodb,idea,vscode,eclipse,figma
+https://skillicons.dev/icons?i=java,kotlin,js,html,css,git,github,gitlab,docker,postman,mysql,mongodb,idea,vscode,eclipse,figma
 
 ## Contacto
 
-[![LinkedIn](https://skillicons.dev/din](https://www.linkedin.com/in/sandralongas/)
+https://www.linkedin.com/in/sandralongas/
 
-https://skillicons.dev/icons?i=gmail](mailto:sandralongas1@gmail.com)
+sandralongas1@gmail.com
