@@ -23,15 +23,15 @@ Actualmente formo parte de Plexus Tech, donde he evolucionado desde QA Tester ha
   
 ## Desarrollo
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,js,html,css" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,js,html,css,angular,react,bootstrap" />
 
 ## Herramientas
 
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,postman,jira,azure" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,postman,Swagger,azure,Railway,Vercel,Liferay,Web management" />
 
 ## IDEs
 
-<img src="https://skillicons.dev/icons?i=idea,vscode,eclipse" />
+<img src="https://skillicons.dev/icons?i=idea,vscode,eclipse,netbeans" />
 
 ## Diseño UX/UI
 
