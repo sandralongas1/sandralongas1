@@ -4,7 +4,7 @@
 
 ## Sobre mí
 
-Software Developer y QA Engineer, calidad de software, automatización y experiencia de usuario.
+Software Developer y QA especializado en calidad de software, automatización y experiencia de usuario.
 
 Actualmente formo parte de Plexus Tech, donde he evolucionado desde QA Tester hasta Software Developer, combinando una visión técnica con una fuerte orientación al usuario final.
 
@@ -23,27 +23,26 @@ Actualmente formo parte de Plexus Tech, donde he evolucionado desde QA Tester ha
   
 ## Desarrollo
 
-https:***killicons.dev/icons?i=java,kotlin,js,html,css
+<img src="https://skillicons.dev/icons?i=n,js,html,css
 
 ## Herramientas
 
-htt***//skillicons.dev/icons?i=git,github,gitlab,docker,postman
+<img src="https://skillicons.dev/icons?i=,gitlab,docker,postman
 
 ## IDEs
-***illicons.dev/icons?i=idea,vscode***lipse" />
+
+<img src="https://skillicons.devdea,vscode,eclipse
 
 ## Diseño UX/UI
 
-.dev***ons?i=figma" />
-
-## Contacto
+<img srcskillicons.dev/icons?i=figma
 
 ## Contacto
 
 <a href="https://www.linkedin.com/in/sandralongas/">
-  https://skillicons.dev/icons?i=linkedin
+  ://skillicons.dev/icons?i=linkedin" />
 </a>
 
-">
+<a href="mailto:sandralongas1@gmail.com">
   https://skillicons.dev/icons?i=gmail
 </a>
